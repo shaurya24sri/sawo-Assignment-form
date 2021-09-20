@@ -1,0 +1,42 @@
+body{
+	height: 100vh;
+   scroll-behavior: smooth;
+	font-family: 'Poppins', sans-serif;
+	background-color:#FCF59A; 
+}
+
+.form-div{
+	width: 45%;
+	
+	color:purple;
+	text-align: center;
+     margin-top: 10%;
+    margin-left: 25%;
+}
+form{
+	background-color: #FCF59A;
+	padding:30px;
+	color: blue;
+	height: 60%;
+}
+button{
+	color: black;
+	font-size: 18px;
+	background-color: #A159F3;
+	background-color: white;
+	color:#ffb266;
+	border:2px solid #F39D2B;
+    margin-top:20px;
+    transform: scale(1.0) perspective(1px);
+	padding: 18px;
+	letter-spacing: 0.2rem;
+	border-style: double;
+	border-radius: .3rem;
+	text-decoration: none;
+
+}
+button:hover{
+color: black;
+	font-size: 18px;
+	background-color: #ff9933;
+}
